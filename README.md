@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm a freshfish in computer and current try to learn more about computer science
+- If u have any thing want to discuss, u can contact me at danmushu@outlook.com 
+
 
 <!-- states -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmushu)
