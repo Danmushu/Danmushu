@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a freshfish in computer and current try to learn more about computer science
-- If u have any thing want to discuss, u can contact me at danmushu@outlook.com 
+- If u have any thing want to discuss, u can contact me at Danmushu@outlook.com 
 
 
 <!-- states -->
